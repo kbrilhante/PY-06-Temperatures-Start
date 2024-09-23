@@ -7,6 +7,6 @@ temps = [float("{:.1f}".format(random.uniform(25, 40))) for i in range(30)]
 # Temperatures are in Celsius
 
 # TODO: Get the average temperature from the last month
-# TODO: Get the highest temperarure of the month
+# TODO: Get the highest tempetarure of the month
 # TODO: Get the lowest temperature of the month
 
